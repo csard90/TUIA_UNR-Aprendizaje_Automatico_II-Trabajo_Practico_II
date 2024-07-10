@@ -21,9 +21,9 @@ Generar artículos al azar y seleccionar 5 para cada modelo que resulten de inte
 
 *No se requiere un análisis de métricas para este problema, se espera un análisis cualitativo de los resultados obtenidos.*
 
-Entrega:
 ## **Recursos**
 ### 'Problema 2a.ipynb'
-### 'Problema 2b.ipynb'
+Contiene el algoritmo correspondiente al modelo de generaecion de texto caracter a caracter.
 
-El algoritmo que corresponde al modelo de generacion de texto de caracter a caracter se encuentra en el archivo 'Problema 2a.ipynb' y el que corresponde a palabra a palabra en el archivo 'Problema 2b.ipynb'.
+### 'Problema 2b.ipynb'
+Contiene el algoritmo correspondiente al modelo de generaecion de texto palabra a palabra.
